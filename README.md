@@ -1,42 +1,30 @@
-Information collected from you via Facebook and other paid advertising:
-BackNine may collect your name, email, and phone number from Facebook Lead Ads and other paid advertising. This information will not be shared with third parties without your express written consent. 
+Privacy Notice
+This privacy notice discloses the privacy practices for https://back9ins.com. This privacy notice applies solely to information collected by this website. It will notify you of the following:
 
-Information we collect from you:
-Name
-Date of Birth
-Social Security Number
-Addresses
-Driver's license
-Banking information 
-Error and Omissions  Insurance Policy
-Answers to background questions
-Insurance licenses
+What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+What choices are available to you regarding the use of your data.
+The security procedures in place to protect the misuse of your information.
+How you can correct any inaccuracies in the information.
+Information Collection, Use, and Sharing 
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
-Information we collect on your clients:
-Name
-Date of Birth
-Social Security Number
-Driver's license
-Addresses
-Banking information 
-Copies of Medical records
-Insurance policy application questions
-Copies of insurance policy applications
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
-Information we send to other companies
-With your written consent, we send the information we collect from you to SuranceBay (a software company that facilitates your appointment with insurance carriers).  Your information is shared with the insurance carriers in order to complete appointment applications.  We send information we collect on your clients to insurance carriers for the purpose of obtaining insurance. Insurance application documents are sent to Paperclip who stores the documents as a backup service and also transmits the application securely to the insurance carrier.  Files are stored on Amazon Web Services for document storage.  These documents are encrypted and also use permissions so that only specific users can access the documents.  Your banking information is securely sent to our ACH payments processor, Synapse Pay.
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-Sending your information securely:
-Any sensitive information is sent securely.  Information sent or received through https://app.back9ins.com is sent over Secure Socket Layer (SSL).  Documents sent to insurance carriers are either uploaded to the carrier using their secure website or via Paperclip in order to securely send documents. Documents stored on Amazon Web Services are encrypted.  Our MYSQL database uses AES256 encryption on sensitive columns to ensure that if the database were to be compromised, the sensitive data would be encrypted.  
+Your Access to and Control Over Information 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-Cookie Policy:
-BackNine does not use cookies.
+See what data we have about you, if any.
+Change/correct any data we have about you.
+Have us delete any data we have about you.
+Express any concern you have about our use of your data.
 
-Password Policy:
-BackNine requires that your password be at least 8 characters or more.
+Security 
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
-Data Permissions:
-Each request to BackNine is validated to ensure that the person sending the request has access to the resource.  For example, a hacker simply knowing the URL to a specific policy or document will return an error stating they do not have access to act on this resource.  
+Wherever we collect sensitive information, that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.
 
-Account Lockouts:
-A hacker can use a program that attempts to log into your account 1000 times per second.  We limit the max number of failed log in attempts to 10 per hour.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
+
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 790-1951 or via email at privacy@back9ins.com.
