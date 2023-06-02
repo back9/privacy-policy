@@ -33,3 +33,5 @@ Wherever we collect sensitive information, that information is encrypted and tra
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (800) 790-1951 or via email at privacy@back9ins.com.
+
+We use Synapse Financial Technologies, Inc. for financial technology services in our course of business. By using our site in any way you consent to [Synapse Financial Technologies' Privacy Policy](https://synapsefi.com/privacy).
